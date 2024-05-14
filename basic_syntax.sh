@@ -44,6 +44,9 @@ touch first_file.txt
 # 파일 내용 조회
 cat first_file.txt
 
+# 파일 내용 페이지 단위로 출력 (터미널 크기에 따라)
+more first_file.txt
+
 # 터미널창에 문자열 출력하는 명령어
 # 개발자가 흔적을 남기기위해 사용되기도 함
 echo "hello world"
