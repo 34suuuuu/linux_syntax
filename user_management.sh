@@ -15,3 +15,5 @@ chmod u+x test.sh
 chmod g-w test.sh
 
 # 파일 소유자/그룹 관리
+# 소유자의 그룹 변경
+chown 소유자:그룹 파일명
